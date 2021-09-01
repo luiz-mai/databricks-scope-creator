@@ -1,0 +1,11 @@
+{
+    "first_scope_name": {
+        "secrets": {
+            "one_key": "abc",
+            "another_key": "123"
+        },
+        "acls": {
+            "my_group": "READ"
+        }
+    }
+}
